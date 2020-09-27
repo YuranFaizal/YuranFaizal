@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Hello 👋🏻](https://i.ibb.co/0FBsLhB/Screenshot-41-Copy.png)
 
-<!--
-**YuranFaizal/YuranFaizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey 👋🏻,
 
-Here are some ideas to get you started:
+I am a Dev currently in Maputo, Mozambique. I write code and love open source
+solutions about JavaScript, VueJS and React-Native. I am exploring other areas of web, mobile and bot development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📬 Let's get in touch
+
+- Twitter: [twitter.com/YuranFaizal][1]
+- LinkedIn: [linkedin.com/in/yuran-faizal-1796541a6][2]
+
+## 👷 on Free Times
+
+I love to play football with my brother , videogame  , read books and meet new people
+
+## Favorite Phrase
+be who you want to be not what others want to see
+
+[1]: https://twitter.com/YuranFaizal
+[2]: https://www.linkedin.com/in/yuran-faizal-1796541a6
