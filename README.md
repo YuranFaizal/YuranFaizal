@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://i.ibb.co/0FBsLhB/Screenshot-41-Copy.png)
+![Hello 👋🏻](https://i.ibb.co/0FBsLhB/Screenshot-41-Copy.png)
 
 Hey 👋🏻,
 
